@@ -1,0 +1,12 @@
+{
+	"namespace": "XatroGames",
+	"name": "BeansCompany",
+	"description": "Adds Beans to Lethal Company: Go Find Her!",
+	"version_number": "1.0.0",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"Evaisa-LethalLib-0.14.3"
+	],
+	"website_url": "https://github.com/Xatro/BeansCompany"
+	"FullName": "XatroGames-BeansCompany"
+}
